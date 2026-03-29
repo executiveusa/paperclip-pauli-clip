@@ -5,4 +5,5 @@ packages:
   - packages/plugins/examples/*
   - server
   - ui
+  - ui-panorama
   - cli
